@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Lesson01_Variable'/>
+        <page name='Lesson02_Conditional_Statement'/>
+        <page name='Lesson03_Array_and_Dictionary'/>
+        <page name='Lesson04_For Loop'/>
+        <page name='Lesson05_Switch_Statement'/>
+        <page name='Lesson06_Function'/>
+        <page name='Lesson07_Closure'/>
+        <page name='Lesson07.1_Closure'/>
+        <page name='Lesson08_Enums'/>
+        <page name='Lesson08.1_Enums_Classes_Struct_raywenderlich'/>
+        <page name='Lesson09_OOP_Part1_Structure'/>
+        <page name='Lesson10_OOP_Part2_Inheritence'/>
+        <page name='Lesson11_OOP_Part3_Initialization'/>
+        <page name='Lesson12_Optional'/>
+        <page name='Lesson13_SubScripts'/>
+        <page name='Lesson_14_Extention'/>
+        <page name='Lesson_15_Generics'/>
+        <page name='Lesson16_ErrorHandling'/>
+        <page name='Lesson17_TypeCasting'/>
+        <page name='Lesson17.1_TypeCasting'/>
+        <page name='Lesson17.2_TypeCasting'/>
+        <page name='Lesson18_StructVSClass'/>
+        <page name='Lesson19_Gaurd'/>
+    </pages>
+</playground>
